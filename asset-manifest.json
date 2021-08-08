@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Sensuele/react-portfolio/static/css/main.2ef1e1e1.chunk.css",
-    "main.js": "/Sensuele/react-portfolio/static/js/main.6165827f.chunk.js",
-    "main.js.map": "/Sensuele/react-portfolio/static/js/main.6165827f.chunk.js.map",
-    "runtime-main.js": "/Sensuele/react-portfolio/static/js/runtime-main.e5fe2144.js",
-    "runtime-main.js.map": "/Sensuele/react-portfolio/static/js/runtime-main.e5fe2144.js.map",
-    "static/css/2.d6dc494e.chunk.css": "/Sensuele/react-portfolio/static/css/2.d6dc494e.chunk.css",
-    "static/js/2.febd82d0.chunk.js": "/Sensuele/react-portfolio/static/js/2.febd82d0.chunk.js",
-    "static/js/2.febd82d0.chunk.js.map": "/Sensuele/react-portfolio/static/js/2.febd82d0.chunk.js.map",
-    "static/js/3.0397d378.chunk.js": "/Sensuele/react-portfolio/static/js/3.0397d378.chunk.js",
-    "static/js/3.0397d378.chunk.js.map": "/Sensuele/react-portfolio/static/js/3.0397d378.chunk.js.map",
+    "main.js": "/Sensuele/react-portfolio/static/js/main.1aac8ad2.chunk.js",
+    "main.js.map": "/Sensuele/react-portfolio/static/js/main.1aac8ad2.chunk.js.map",
+    "runtime-main.js": "/Sensuele/react-portfolio/static/js/runtime-main.caa734f2.js",
+    "runtime-main.js.map": "/Sensuele/react-portfolio/static/js/runtime-main.caa734f2.js.map",
+    "static/css/2.27dd871e.chunk.css": "/Sensuele/react-portfolio/static/css/2.27dd871e.chunk.css",
+    "static/js/2.523cdd09.chunk.js": "/Sensuele/react-portfolio/static/js/2.523cdd09.chunk.js",
+    "static/js/2.523cdd09.chunk.js.map": "/Sensuele/react-portfolio/static/js/2.523cdd09.chunk.js.map",
+    "static/js/3.f7b13388.chunk.js": "/Sensuele/react-portfolio/static/js/3.f7b13388.chunk.js",
+    "static/js/3.f7b13388.chunk.js.map": "/Sensuele/react-portfolio/static/js/3.f7b13388.chunk.js.map",
     "index.html": "/Sensuele/react-portfolio/index.html",
-    "static/css/2.d6dc494e.chunk.css.map": "/Sensuele/react-portfolio/static/css/2.d6dc494e.chunk.css.map",
+    "static/css/2.27dd871e.chunk.css.map": "/Sensuele/react-portfolio/static/css/2.27dd871e.chunk.css.map",
     "static/css/main.2ef1e1e1.chunk.css.map": "/Sensuele/react-portfolio/static/css/main.2ef1e1e1.chunk.css.map",
-    "static/js/2.febd82d0.chunk.js.LICENSE.txt": "/Sensuele/react-portfolio/static/js/2.febd82d0.chunk.js.LICENSE.txt",
+    "static/js/2.523cdd09.chunk.js.LICENSE.txt": "/Sensuele/react-portfolio/static/js/2.523cdd09.chunk.js.LICENSE.txt",
     "static/media/style.css": "/Sensuele/react-portfolio/static/media/pre.4410c5ba.svg",
     "static/media/home-main.359935c3.svg": "/Sensuele/react-portfolio/static/media/home-main.359935c3.svg",
     "static/media/item-1.03e86d81.jpg": "/Sensuele/react-portfolio/static/media/item-1.03e86d81.jpg",
@@ -25,10 +25,10 @@
     "static/media/portfolio-1.4bd8190f.png": "/Sensuele/react-portfolio/static/media/portfolio-1.4bd8190f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5fe2144.js",
-    "static/css/2.d6dc494e.chunk.css",
-    "static/js/2.febd82d0.chunk.js",
+    "static/js/runtime-main.caa734f2.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.523cdd09.chunk.js",
     "static/css/main.2ef1e1e1.chunk.css",
-    "static/js/main.6165827f.chunk.js"
+    "static/js/main.1aac8ad2.chunk.js"
   ]
 }
