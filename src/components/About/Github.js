@@ -18,11 +18,12 @@ function Github() {
         Days I <strong className="purple">Code</strong>
       </h1>
       <GitHubCalendar
-        username="soumyajit4419"
+        username="Sensuele"
         blockSize={15}
         blockMargin={5}
         theme={colourTheme}
         fontSize={16}
+        hideColorLegend={false}
       />
     </Row>
   );
