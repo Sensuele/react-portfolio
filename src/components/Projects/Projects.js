@@ -42,15 +42,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Parasport"
-              description="Немецкие паралимписйкие спортсмены"
-              link="https://parasport.de/"
-            />
-          </Col>
+
 
           <Col md={4} className="project-card">
             <ProjectCard
