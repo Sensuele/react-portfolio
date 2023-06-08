@@ -33,18 +33,19 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="веб-разработчик 'Laika'"
-              date="Май 2019 - Октябрь 2020"
-              content={[
-                "верстка макетов",
-                "посадка верстки на Wordpress",
-                "создание шаблонов на Wordpress",
-              ]}
+              title="Frontend developer 'ADCI Solutions'"
+              date="Март 2019 - Декабрь 2021"
+              content={["разработка веб приложений на React JS и Vue"]}
             />
             <Resumecontent
-              title="frontend developer 'ADCI Solutions'"
-              date="Октрябрь 2020 - по настоящее время"
-              content={["разработка веб приложений на React JS"]}
+              title="Frontend developer 'Exelo'"
+              date="Декабрь 2021 - Август 2022"
+              content={["Разработка веб приложений компании на Vue"]}
+            />
+            <Resumecontent
+              title="Frontend developer 'Nemo travel'"
+              date="Сентябрь 2022 - Июнь 2023"
+              content={["Разработка CRM на Vue 3"]}
             />
           </Col>
           <Col md={6} className="resume-right">
@@ -54,23 +55,13 @@ function Resume() {
               date="2011 - 2015"
               content={["Инженер-технолог продуктов из растительного сырья"]}
             />
-            {/* <h3 className="resume-title">Ranks and Achivements</h3> */}
-            {/* <Resumecontent
-              title=""
-              content={[
-                `Current rank in Spoj ${spojRank}`,
-                `Current rank in HackerRank  ${hackerrank}`,
-                "Top Performer in Code-Break 1.0",
-                "Participant in Hack-A-Bit 2019",
-              ]}
-            /> */}
+            <Resumecontent
+              title="ОмГАУ им П.А. Столыпина"
+              date="2015 - 2016"
+              content={["Энергоснабжение, промышленные логические контроллеры"]}
+            />
           </Col>
         </Row>
-        {/* <Row style={{ justifyContent: "center", position: "relative" }}>
-          <Button variant="primary" href={pdf} target="_blank">
-          <AiOutlineDownload />&nbsp;Download CV
-          </Button>
-        </Row> */}
       </Container>
     </Container>
   );

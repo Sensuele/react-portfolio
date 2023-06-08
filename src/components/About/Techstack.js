@@ -2,11 +2,11 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   DiJavascript1,
-  DiReact,
   DiGit,
   DiSass,
 } from "react-icons/di";
-import { SiEslint, SiFirebase, SiWebpack } from "react-icons/si";
+import { SiEslint, SiTypescript, SiWebpack } from "react-icons/si";
+import { RiVuejsFill } from "react-icons/ri";
 
 function Techstack() {
   return (
@@ -18,8 +18,8 @@ function Techstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
-        <span>React</span>
+        <SiTypescript />
+        <span>TypeScript</span>
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
@@ -27,8 +27,8 @@ function Techstack() {
         <span>Git</span>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
-        <span>Firebase</span>
+        <RiVuejsFill />
+        <span>Vue</span>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiEslint />

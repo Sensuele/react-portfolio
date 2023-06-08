@@ -40,7 +40,7 @@ function About() {
         <Techstack />
 
 
-        <Github />
+        {/* <Github /> */}
       </Container>
     </Container>
   );
